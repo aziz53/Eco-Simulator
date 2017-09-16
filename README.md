@@ -1,4 +1,4 @@
 # Eco-Simulator
 @author: Ali Meshkat 
-Written in java using OOP
+@date: April 4, 2017
 Simulates an ecosystem using Sheeps, plants and wolves
