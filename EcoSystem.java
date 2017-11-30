@@ -3,6 +3,7 @@
  * An Eco-System simulator including wolves, sheep, and plants 
  * Ali Meshkat 
  * April 4, 2017
+ * @instructor: Mr. Mangat
  */
 import java.util.Random;
 import java.util.Scanner; 
